@@ -1,0 +1,14 @@
+{
+  "upi jims": {
+    "type": "image",
+    "response": "https://cdn.discordapp.com/attachments/1358336336058257562/1359138995577028658/jims.jpg?ex=67f66454&is=67f512d4&hm=e5a9112a2d747c59d07ea6f909191497a2d54489c7d3e53f58270802f45556a5&"
+  },
+  "upi manas": {
+    "type": "image",
+    "response": "https://cdn.discordapp.com/attachments/1358336336058257562/1359139237550887075/manas.jpg?ex=67f6648d&is=67f5130d&hm=5155bc73bdf84cb38c4808e61ee4ef0019a32748b4a2cf40749c2017fc055b2d&"
+  },
+  "upi vineet": {
+    "type": "image",
+    "response": "https://cdn.discordapp.com/attachments/1358336336058257562/1359139469785174207/vineet_qr.jpg?ex=67f664c5&is=67f51345&hm=1cb51324d421706643a8ec05ad732d7b6e60c5f707b8af8548559029cf0c840f&"
+  }
+}
